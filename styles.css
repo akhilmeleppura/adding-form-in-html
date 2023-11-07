@@ -1,0 +1,22 @@
+
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 400px;
+    margin: 50px auto;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
